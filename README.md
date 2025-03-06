@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RangaNyamadzawo
 - 👀 I’m interested in Infrastructure As Code
-- 🌱 I’m currently learning terraform
+- 🌱 I Love software development challenges
 - 💞️ I’m looking to collaborate on building cloud infrastructure using code
 - 📫 
 
